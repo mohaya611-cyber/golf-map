@@ -1,0 +1,16 @@
+{
+  "name": "GOLF MAP",
+  "short_name": "GOLF MAP",
+  "description": "هيئة الهلال الأحمر السعودي · الدليل الميداني لعربات القولف في المسجد النبوي",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAF6F6",
+  "theme_color": "#D71920",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
